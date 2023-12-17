@@ -9,6 +9,6 @@ app.get('/*', (req, res) => {
   res.sendFile(path.join(__dirname, './build', 'index.html'));
 });
 // Start point
-app.listen(80, function () {
+app.listen(process.env.PORT, function () {
   console.log(`Node server started`);
 });
