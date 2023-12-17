@@ -19,7 +19,7 @@
     "react-scrollspy": "^3.4.3",
     "react-slick": "^0.28.1",
     "react-tabs": "^3.2.2",
-    "react-text-loop": "^2.3.0",
+    "react-text-loop": "latest",
     "react-transition-group": "^4.4.2",
     "react-tsparticles": "^1.37.2",
     "saas": "^1.0.0",
