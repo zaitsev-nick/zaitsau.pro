@@ -1,6 +1,5 @@
 import React from "react";
 import Particles from "react-tsparticles";
-import TextLoop from "react-text-loop";
 
 const Slider = () => {
   return (
@@ -113,11 +112,6 @@ const Slider = () => {
                   Bostami
                   <br />
                 </span>{" "}
-                <TextLoop>
-                  <span className="loop-text">Web Developer</span>
-                  <span className="loop-text"> UI/UX Designer.</span>
-                  <span className="loop-text"> Content Creator.</span>
-                </TextLoop>{" "}
                 <span className="overlay_effect"></span>
               </h3>
             </div>
