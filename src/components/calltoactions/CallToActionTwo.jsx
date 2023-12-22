@@ -125,7 +125,7 @@ const CallToActionTwo = () => {
                     <div className="list_inner">
                       <img
                         className="svg"
-                        src="img/svg/github.svg"
+                        src="img/svg/github-dark.svg"
                         alt="gitHub"
                       />
                       <p><a href="https://github.com/zaitsev-nick">GitHub</a></p>
