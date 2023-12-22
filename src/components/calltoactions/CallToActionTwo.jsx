@@ -125,10 +125,10 @@ const CallToActionTwo = () => {
                     <div className="list_inner">
                       <img
                         className="svg"
-                        src="img/svg/location.svg"
-                        alt="location"
+                        src="img/svg/github.svg"
+                        alt="gitHub"
                       />
-                      <p>Minsk, Belarus</p>
+                      <p><a href="https://github.com/zaitsev-nick">GitHub</a></p>
                     </div>
                   </li>
                   {/* End silgle address */}
