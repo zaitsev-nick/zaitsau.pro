@@ -46,16 +46,16 @@ const SkillsTwo = () => {
                   • <b>Programming Languages:</b> JavaScript / TypeScript 
                   </p>
                   <p>
-                  • <b>Technologies and Frameworks:</b> ES2015, ES6+, Node.js, React.js, Redux, Express.js, Backbone, Marionette.js, Angular 1.5, Bootstrap, Handlebars, Less, SASS, Chart.js, D3.js, Three.js, Telegram BOT API, RESTful API, WebSocket, Storybook, jQuery, HTML/HTML5, CSS/CSS3 
+                  • <b>Technologies and Frameworks:</b> React.js, Redux, Node.js / Express.js, Next.js, Backbone / Marionette.js, Angular 1.5, Bootstrap, Tailwind, Carbon, Material, Handlebars, Less, SASS, Chart.js, D3.js, Three.js, Telegram BOT API, Storybook, HTML/HTML5, CSS/CSS3 
                   </p>
                   <p>
-                  • <b>Tools:</b>Travis / Kubernetes / Docker
+                  • <b>Tools:</b>Docker / Webpack / gulp
                   </p>
                   <p>
-                  • <b>OS:</b> Windows Family / Linux Ubuntu / MacOS 
+                  • <b>OS:</b> Linux Ubuntu  
                   </p>
                   <p>
-                  • <b>Databases:</b> MongoDB / MySQL / GraphQL
+                  • <b>Databases:</b> postgreSQL, MongoDB / MySQL / GraphQL
                   </p>
                   <p>
                   • <b>Version Control:</b> Git / SVN / TFS 
@@ -137,21 +137,7 @@ const SkillsTwo = () => {
                   </div>
                   {/* End .progress_inner */}
 
-                  <div className="progress_inner">
-                    <span>
-                      <span className="label">Angular</span>
-                      <span className="number">50%</span>
-                    </span>
-                    <div className="background">
-                      <div className="bar">
-                        <div
-                          className="bar_in"
-                          style={{ width: 50 + "%" }}
-                        ></div>
-                      </div>
-                    </div>
-                  </div>
-                  {/* End .progress_inner */}
+
 
                   <div className="progress_inner">
                     <span>
@@ -172,13 +158,13 @@ const SkillsTwo = () => {
                   <div className="progress_inner">
                     <span>
                       <span className="label">Next.js</span>
-                      <span className="number">90%</span>
+                      <span className="number">100%</span>
                     </span>
                     <div className="background">
                       <div className="bar">
                         <div
                           className="bar_in"
-                          style={{ width: 90 + "%" }}
+                          style={{ width: 100 + "%" }}
                         ></div>
                       </div>
                     </div>
@@ -203,7 +189,7 @@ const SkillsTwo = () => {
 
                   <div className="progress_inner">
                     <span>
-                      <span className="label">MongoDB / MySQL / GraphQL</span>
+                      <span className="label">MongoDB / MySQL / postgreSQL</span>
                       <span className="number">90%</span>
                     </span>
                     <div className="background">
@@ -220,13 +206,29 @@ const SkillsTwo = () => {
                   <div className="progress_inner">
                     <span>
                       <span className="label">Storybook</span>
-                      <span className="number">100%</span>
+                      <span className="number">90%</span>
                     </span>
                     <div className="background">
                       <div className="bar">
                         <div
                           className="bar_in"
-                          style={{ width: 100 + "%" }}
+                          style={{ width: 90 + "%" }}
+                        ></div>
+                      </div>
+                    </div>
+                  </div>
+                  {/* End .progress_inner */}
+
+                  <div className="progress_inner">
+                    <span>
+                      <span className="label">Angular</span>
+                      <span className="number">70%</span>
+                    </span>
+                    <div className="background">
+                      <div className="bar">
+                        <div
+                          className="bar_in"
+                          style={{ width: 70 + "%" }}
                         ></div>
                       </div>
                     </div>
